@@ -843,7 +843,7 @@ img {
 
 .modal-form-term:checked + .modal-form-check-desc::before {
   border: none;
-  background-image: url(/images/icon_check.svg);
+  background-image: url(../images/icon_check.svg);
   background-position: center;
 }
 
